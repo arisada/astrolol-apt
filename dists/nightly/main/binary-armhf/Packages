@@ -1,0 +1,25 @@
+Package: astrolol
+Version: 0.1.0~git20261027.bbb048d-1
+Architecture: all
+Maintainer: Aris Adamantiadis <aris@0xbadc0de.be>
+Installed-Size: 5687
+Depends: systemd-sysusers, python3-astroplan, python3-astropy, python3-dbus-next, python3-fastapi, python3-httpx, python3-ifaddr, python3-numpy, python3-photutils, python3-pil, python3-pluggy, python3-psutil, python3-pydantic (>= 2.10), python3-pydantic-settings (>= 2.2), python3-scipy, python3-serial, python3-structlog, python3-uvicorn, python3-zeroconf, python3:any, polkitd, systemd-tmpfiles
+Recommends: astap-cli, curl, indi-bin | indigo3
+Suggests: bluez, indi-full, network-manager, nginx, phd2
+Homepage: https://astrolol.lol
+Priority: optional
+Section: science
+Filename: pool/main/a/astrolol/astrolol_0.1.0~git20261027.bbb048d-1_all.deb
+Size: 2634536
+SHA256: 066d043f8eb6fb47500e8f558f66961bdf6134afe8a10aadfe7ae3a96ab45ccc
+SHA1: 99724e12047640f18b5441d7d9cacd22dcc1adbe
+MD5sum: 6451417f16f3b1b97b9e4f5bf64ce6a5
+Description: telescope control and astrophotography from a web browser
+ astrolol runs on the computer attached to a telescope (a Raspberry Pi or a
+ mini PC) and drives its mount, cameras, focuser, filter wheel and guider.
+ Phones, tablets and laptops connect to it with a web browser: imaging,
+ plate solving, autofocus, guiding, polar alignment and imaging sequences.
+ .
+ Devices are reached through INDI, INDIGO, ASCOM Alpaca or astrolol's own
+ drivers.
+

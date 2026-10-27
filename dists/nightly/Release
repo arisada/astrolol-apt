@@ -1,0 +1,37 @@
+Origin: astrolol
+Label: astrolol
+Codename: nightly
+Date: Tue, 27 Oct 2026 19:49:55 UTC
+Architectures: amd64 arm64 armhf
+Components: main
+Description: astrolol nightly builds
+MD5Sum:
+ ad7c8282ee43368ce24c0e7cb2a87ad4 1421 main/binary-amd64/Packages
+ 5add7717087792ac997a5f0048b7befc 838 main/binary-amd64/Packages.gz
+ c3b4465b485171d30fa9ad5b701892f3 106 main/binary-amd64/Release
+ ad7c8282ee43368ce24c0e7cb2a87ad4 1421 main/binary-arm64/Packages
+ 5add7717087792ac997a5f0048b7befc 838 main/binary-arm64/Packages.gz
+ c151c1db91b055425010b59fde226e98 106 main/binary-arm64/Release
+ ad7c8282ee43368ce24c0e7cb2a87ad4 1421 main/binary-armhf/Packages
+ 5add7717087792ac997a5f0048b7befc 838 main/binary-armhf/Packages.gz
+ c5e7582e205d98c01128a76c6f1c74b3 106 main/binary-armhf/Release
+SHA1:
+ 863b859a2a06aeec6a269cb6eb03438b47bf86f1 1421 main/binary-amd64/Packages
+ 77340f05697f0311ef9e081b6575003c4185d07a 838 main/binary-amd64/Packages.gz
+ c660d7028b04e7d39d71ac900e6088d3ad4b0053 106 main/binary-amd64/Release
+ 863b859a2a06aeec6a269cb6eb03438b47bf86f1 1421 main/binary-arm64/Packages
+ 77340f05697f0311ef9e081b6575003c4185d07a 838 main/binary-arm64/Packages.gz
+ c1a405b7f4050947177eaa9ad53b7d5ae081b840 106 main/binary-arm64/Release
+ 863b859a2a06aeec6a269cb6eb03438b47bf86f1 1421 main/binary-armhf/Packages
+ 77340f05697f0311ef9e081b6575003c4185d07a 838 main/binary-armhf/Packages.gz
+ 605569c9d6f0e5c09c994d498afce0d5179396ce 106 main/binary-armhf/Release
+SHA256:
+ 559dd5cb0360947c2c13af6f92b8a6f71617c9fcb3299b87c324e73292c83108 1421 main/binary-amd64/Packages
+ 8bc15199679cfa788098588c691c625441fdfb85634ab8b2702fd43cc95f6065 838 main/binary-amd64/Packages.gz
+ b006888c95aa73ffcab2963c9f5c178a706a3ef2be5a7929f9fb0ba8326e09fc 106 main/binary-amd64/Release
+ 559dd5cb0360947c2c13af6f92b8a6f71617c9fcb3299b87c324e73292c83108 1421 main/binary-arm64/Packages
+ 8bc15199679cfa788098588c691c625441fdfb85634ab8b2702fd43cc95f6065 838 main/binary-arm64/Packages.gz
+ d4af383d1e1080b6b1b915fb7b9333f0714fd0f565769b660616260799c5fdcc 106 main/binary-arm64/Release
+ 559dd5cb0360947c2c13af6f92b8a6f71617c9fcb3299b87c324e73292c83108 1421 main/binary-armhf/Packages
+ 8bc15199679cfa788098588c691c625441fdfb85634ab8b2702fd43cc95f6065 838 main/binary-armhf/Packages.gz
+ 1522b452adb70265dadbfece5d7cefeed6e4335b6d4df184edfc89243dd8feda 106 main/binary-armhf/Release
