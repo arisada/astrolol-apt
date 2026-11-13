@@ -1,0 +1,5 @@
+Component: main
+Origin: astrolol
+Label: astrolol
+Architecture: arm64
+Description: astrolol nightly builds

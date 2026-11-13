@@ -1,0 +1,47 @@
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA512
+
+Origin: astrolol
+Label: astrolol
+Codename: nightly
+Date: Fri, 13 Nov 2026 14:43:58 UTC
+Architectures: amd64 arm64 armhf
+Components: main
+Description: astrolol nightly builds
+MD5Sum:
+ 581bb14af453f4e5e0f793c17929af9e 1421 main/binary-amd64/Packages
+ f1759bec05ad4ef2943bd8e2e9c72e66 839 main/binary-amd64/Packages.gz
+ c3b4465b485171d30fa9ad5b701892f3 106 main/binary-amd64/Release
+ 581bb14af453f4e5e0f793c17929af9e 1421 main/binary-arm64/Packages
+ f1759bec05ad4ef2943bd8e2e9c72e66 839 main/binary-arm64/Packages.gz
+ c151c1db91b055425010b59fde226e98 106 main/binary-arm64/Release
+ 581bb14af453f4e5e0f793c17929af9e 1421 main/binary-armhf/Packages
+ f1759bec05ad4ef2943bd8e2e9c72e66 839 main/binary-armhf/Packages.gz
+ c5e7582e205d98c01128a76c6f1c74b3 106 main/binary-armhf/Release
+SHA1:
+ dc32148f41c361c9ae7f7c9a51d2bbc678ba210f 1421 main/binary-amd64/Packages
+ 7637aba397fb52068d0ad752fcbd38d42b21be3d 839 main/binary-amd64/Packages.gz
+ c660d7028b04e7d39d71ac900e6088d3ad4b0053 106 main/binary-amd64/Release
+ dc32148f41c361c9ae7f7c9a51d2bbc678ba210f 1421 main/binary-arm64/Packages
+ 7637aba397fb52068d0ad752fcbd38d42b21be3d 839 main/binary-arm64/Packages.gz
+ c1a405b7f4050947177eaa9ad53b7d5ae081b840 106 main/binary-arm64/Release
+ dc32148f41c361c9ae7f7c9a51d2bbc678ba210f 1421 main/binary-armhf/Packages
+ 7637aba397fb52068d0ad752fcbd38d42b21be3d 839 main/binary-armhf/Packages.gz
+ 605569c9d6f0e5c09c994d498afce0d5179396ce 106 main/binary-armhf/Release
+SHA256:
+ 95b91c13f22d5586a357ffca46a279a3a10a192e82f7bef9a708396e76358a3f 1421 main/binary-amd64/Packages
+ 874da63298da10580735cb13dc610cd53bf5b78583e23606a4b95a8a0cbcfe1a 839 main/binary-amd64/Packages.gz
+ b006888c95aa73ffcab2963c9f5c178a706a3ef2be5a7929f9fb0ba8326e09fc 106 main/binary-amd64/Release
+ 95b91c13f22d5586a357ffca46a279a3a10a192e82f7bef9a708396e76358a3f 1421 main/binary-arm64/Packages
+ 874da63298da10580735cb13dc610cd53bf5b78583e23606a4b95a8a0cbcfe1a 839 main/binary-arm64/Packages.gz
+ d4af383d1e1080b6b1b915fb7b9333f0714fd0f565769b660616260799c5fdcc 106 main/binary-arm64/Release
+ 95b91c13f22d5586a357ffca46a279a3a10a192e82f7bef9a708396e76358a3f 1421 main/binary-armhf/Packages
+ 874da63298da10580735cb13dc610cd53bf5b78583e23606a4b95a8a0cbcfe1a 839 main/binary-armhf/Packages.gz
+ 1522b452adb70265dadbfece5d7cefeed6e4335b6d4df184edfc89243dd8feda 106 main/binary-armhf/Release
+-----BEGIN PGP SIGNATURE-----
+
+iHUEARYKAB0WIQQEHqz96EejryJOVlkcb3r6D4/gFAUCavciLgAKCRAcb3r6D4/g
+FHIMAQDu0L/h5RxpmNu0RWANDREY5ViWyIl61PqX3ToN6Ym0SgD9FrkNxiBB62iW
+g3HXe5V3VV+4UDMj0kZMXHH9eZ0qPgg=
+=q27k
+-----END PGP SIGNATURE-----
